@@ -9,12 +9,12 @@ section {
     text-align: center;
 }
 .features {
-    color: white;
-    columns: #000;
+    background-color: white;
+    color: #000;
 }
 .quote {
     background-color: #549da0;
-    columns: white;
+    color: white;
 }
 footer {
     background-color: 353535;
