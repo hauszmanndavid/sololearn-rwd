@@ -55,3 +55,13 @@ max-width:  900px;
 .btn :hover {
     background-color: #468486;
 }
+
+.feature {
+    width: 32%;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.feature img {
+    width: 40%;
+}
