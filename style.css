@@ -189,3 +189,6 @@ blockquote cite::before {
                 position: relative;
             }
             
+            .submenu {
+                display: none;
+            }
