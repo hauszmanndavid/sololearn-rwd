@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
+
 header {
     color: white;
     background-color: #284b63;
@@ -32,6 +34,7 @@ footer ul {
     
 footer li {
     display: inline-block;
+    margin: 5px 0;
 }
     
 footer li a {
@@ -191,4 +194,13 @@ blockquote cite::before {
             
             .submenu {
                 display: none;
+            }
+            
+            a {
+                text-decoration: none;
+            }
+            @media screen and (max-width: 600px) {
+                body {
+                    background-color: blue;
+                }
             }
